@@ -1,2 +1,2 @@
 # dgl-code-pratice
-dgl学习
+详细代码
